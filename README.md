@@ -1,7 +1,7 @@
 # 5-Day Swift Coding Challenge: Day 1: Materials
 
 
-This repo contains the downloadable materials and projects associated with **Day 1** of the [5-Day Swift Coding Challenge](https://bootcamp.kodeco.com/5-day-swift)** from [Kodeco](https://www.kodeco.com).
+This repo contains the downloadable materials and projects associated with **Day 1** of the [5-Day Swift Coding Challenge](https://bootcamp.kodeco.com/5-day-swift) from [Kodeco](https://www.kodeco.com).
 
 --- 
 
